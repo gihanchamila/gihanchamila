@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer | MERN Stack Enthusiast | Open Source Contributor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A01E&background=000000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&background=000000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 
 I’m a passionate Full Stack Web Developer with expertise in the MERN stack. I enjoy building web applications that solve real-world problems and continuously learn new technologies to enhance my skills. My journey in tech started with a strong foundation in HTML, CSS, and JavaScript, and it has evolved into mastering complex back-end technologies and cloud services.
