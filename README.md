@@ -1,25 +1,52 @@
+<h1 align="left">Hi there, I'm Gihan Chamila</h1>
 
-Hello, I'm Gihan Chamila Abeywickrama
-I'm a dedicated Full-Stack Developer with a passion for building scalable and efficient web applications. I specialize in creating seamless user experiences using modern technologies.
-lk.linkedin.com
+<p align="center">
+  <p>Full-Stack Developer | MERN Stack Enthusiast | Open Source Contributor<p/><br>
+  <a href="https://www.linkedin.com/in/algihanchamila" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:algihanchamila@gmail.com">
+    <img src="https://img.shields.io/badge/Email-algihanchamila@gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
-Professional Background
-Full-Stack Development: Proficient in both front-end and back-end technologies, enabling the development of comprehensive web solutions.
+---
 
-Tech Enthusiast: Always eager to learn and implement the latest technologies to solve real-world problems.
+## About Me
 
-Volunteer Experience: Active member of the Leo Club of Deniyaya, contributing to community development projects.
-linkedin.com
-+1
-lk.linkedin.com
-+1
+I’m a passionate Full-Stack Developer who loves building robust, scalable, and user-friendly web applications. I enjoy turning complex challenges into elegant solutions using modern technologies. Currently, I’m focused on the MERN Stack (MongoDB, Express, React, Node.js) and actively contribute to open-source projects to grow and support the developer community. Beyond coding, I'm also engaged in volunteerism through the Leo Club of Deniyaya, where I contribute to community-driven tech and service initiatives.
 
-Current Endeavors
-Enhancing skills in the MERN (MongoDB, Express.js, React, Node.js) stack.
+---
 
-Collaborating on open-source projects to contribute to the developer community.
+## Tech Stack
 
-Participating in tech meetups and hackathons to stay connected with industry trends.
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,tailwind,bootstrap,react,nodejs,express,django,mongodb,npm,vite,vitest,git,github,figma,vscode,visualstudio,aws" alt="Tech Stack Icons"/>
+</div>
 
-Connect with Me
-LinkedIn: Gihan Chamila Abeywickrama
+---
+
+## Current Endeavors
+
+- Deep-diving into advanced React & Next.js
+- Building and maintaining open-source MERN applications
+- Participating in meetups, hackathons, and tech communities
+- Continuous learning & skill expansion
+
+---
+
+## Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/algihanchamila" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:algihanchamila@gmail.com">
+    <img src="https://img.shields.io/badge/Email Me-algihanchamila@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *Thank you for visiting my profile! Feel free to explore my projects and reach out for collaborations.*
+
