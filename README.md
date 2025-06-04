@@ -37,7 +37,7 @@ I’m a passionate Full-Stack Developer who loves building robust, scalable, and
 
 ## Let’s Connect!
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/algihanchamila" target="_blank">
     <img src="https://img.shields.io/badge/Connect on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
