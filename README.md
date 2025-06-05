@@ -19,7 +19,7 @@ I’m a passionate Full-Stack Developer who loves building robust, scalable, and
 ## Tech Stack
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,tailwind,bootstrap,react,nodejs,express,django,mongodb,npm,vite,vitest,git,github,figma,vscode,visualstudio,aws" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,tailwind,bootstrap,react,nodejs,jest,express,django,mongodb,npm,vite,vitest,git,github,figma,vscode,visualstudio,aws" alt="Tech Stack Icons"/>
 </div>
 
 
