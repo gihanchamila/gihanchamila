@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Gihan Chamila</h1>
 
 <p align="center">
-  <p>Full-Stack Developer | MERN Stack Enthusiast | Open Source Contributor<p/><br>
+  <p>Full-Stack Developer | MERN Stack Enthusiast | Open Source Contributor<p/>
   <a href="https://www.linkedin.com/in/algihanchamila" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
