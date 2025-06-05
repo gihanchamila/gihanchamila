@@ -10,13 +10,11 @@
   </a>
 </p>
 
----
 
 ## About Me
 
 I’m a passionate Full-Stack Developer who loves building robust, scalable, and user-friendly web applications. I enjoy turning complex challenges into elegant solutions using modern technologies. Currently, I’m focused on the MERN Stack (MongoDB, Express, React, Node.js) and actively contribute to open-source projects to grow and support the developer community. Beyond coding, I'm also engaged in volunteerism through the Leo Club of Deniyaya, where I contribute to community-driven tech and service initiatives.
 
----
 
 ## Tech Stack
 
@@ -24,7 +22,6 @@ I’m a passionate Full-Stack Developer who loves building robust, scalable, and
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,tailwind,bootstrap,react,nodejs,express,django,mongodb,npm,vite,vitest,git,github,figma,vscode,visualstudio,aws" alt="Tech Stack Icons"/>
 </div>
 
----
 
 ## Current Endeavors
 
@@ -32,8 +29,6 @@ I’m a passionate Full-Stack Developer who loves building robust, scalable, and
 - Building and maintaining open-source MERN applications
 - Participating in meetups, hackathons, and tech communities
 - Continuous learning & skill expansion
-
----
 
 ## Let’s Connect!
 
@@ -46,7 +41,6 @@ I’m a passionate Full-Stack Developer who loves building robust, scalable, and
   </a>
 </p>
 
----
 
 ⭐️ *Thank you for visiting my profile! Feel free to explore my projects and reach out for collaborations.*
 
